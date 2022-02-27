@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c74fa07245cbea474ca235ab3cbbdb283c80b6e06347d0142e0a76b43fe8bb35"
+hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage-fabric.toml"
-hash = "aebcd507cf9b8a47af81b0c7eddbf4dc5e4228b845398ff9ffe9c0d64478d9ef"
+hash = "5e3d62c7842b3da40286cb297a26384d7cebb1888b3ea5b5817b9159ba1223bf"
 metafile = true
 
 [[files]]

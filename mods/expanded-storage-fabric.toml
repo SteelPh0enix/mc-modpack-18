@@ -1,13 +1,13 @@
 name = "[Fabric] Expanded Storage"
-filename = "expandedstorage-7.3.9+1.18.2-rc1.jar"
+filename = "expandedstorage-7.3.10+1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3665/920/expandedstorage-7.3.9+1.18.2-rc1.jar"
+url = "https://edge.forgecdn.net/files/3666/60/expandedstorage-7.3.10+1.18.1.jar"
 hash-format = "sha1"
-hash = "b904bda6b47dfb4638f95274855c6efe1f3b9f64"
+hash = "8e6038f12f31d93e2b1dec4caac66d25362272e2"
 
 [update]
 [update.curseforge]
-file-id = 3665920
+file-id = 3666060
 project-id = 317856
