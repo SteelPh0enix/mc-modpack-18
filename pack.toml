@@ -1,0 +1,13 @@
+name = "MC 1.18 Modpack"
+author = "SteelPh0enix"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b1c8569c6d88a290e6a4e7a368a5a05a4a6a724bd2f8760d0a2a747c0e96e3cb"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
