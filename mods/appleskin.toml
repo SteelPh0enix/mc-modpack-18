@@ -1,0 +1,13 @@
+name = "AppleSkin"
+filename = "appleskin-fabric-mc1.18.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/708/appleskin-fabric-mc1.18.1-2.3.0.jar"
+hash-format = "sha1"
+hash = "6ea8db565249f4b0c1322f291f09d345ffcc8dc7"
+
+[update]
+[update.curseforge]
+file-id = 3626708
+project-id = 248787

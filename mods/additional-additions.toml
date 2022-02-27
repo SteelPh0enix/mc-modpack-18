@@ -1,0 +1,13 @@
+name = "Additional Additions | Fabric"
+filename = "AdditionalAdditions-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/370/AdditionalAdditions-3.0.1.jar"
+hash-format = "sha1"
+hash = "181a29a8b509bd46493ead546c186188edcd55b3"
+
+[update]
+[update.curseforge]
+file-id = 3555370
+project-id = 508556

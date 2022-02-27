@@ -1,0 +1,13 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-1.18.1-1.3.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3615/207/betterbiomeblend-1.18.1-1.3.2-fabric.jar"
+hash-format = "sha1"
+hash = "361c7a288724aa68312262cc03621bda07f5b7da"
+
+[update]
+[update.curseforge]
+file-id = 3615207
+project-id = 446253

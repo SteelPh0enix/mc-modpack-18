@@ -1,0 +1,13 @@
+name = "BLAST 💣"
+filename = "blast-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/409/blast-1.8.2.jar"
+hash-format = "sha1"
+hash = "dfc79a69acfd6580b31e6ad02662de537fbc54a7"
+
+[update]
+[update.curseforge]
+file-id = 3543409
+project-id = 349938

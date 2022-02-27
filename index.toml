@@ -1,2 +1,346 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/additional-additions.toml"
+hash = "6d12fb61d1519e459529532350b8e47588aab2abe86409ee912a08e41bd7dd17"
+metafile = true
+
+[[files]]
+file = "mods/additional-enchanted-miner.toml"
+hash = "4076ffb0026f2ad93ec2470993c8c28a90f0568150bc4c0bc737edb1147ce2f3"
+metafile = true
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "a81d0106356ac7a0b2d2e2e6150f8d5335a57e6a57a4cd4cb58474be70a53725"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "2f4cb7e3686c2ca90a40574a1a4b65e227c86e7073cc4d1fc33798e78b4d086d"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "bd22e94334b57cb037c7afe8e214199690ebb30959852492a492dd79a6a2e221"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "517d6d5cdb4b6a1e1fe220981358eacd87ab555e0051818028d25ea9095bc064"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "c74fa07245cbea474ca235ab3cbbdb283c80b6e06347d0142e0a76b43fe8bb35"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.toml"
+hash = "3736e620b9b506764cdf514cc6165e86eecab5e11b16cdc2d15a2150e9c50ccf"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.toml"
+hash = "8dc962668630ca63eef0dd117a1abccc4f7b31a58aee86f84c3f017895e621c7"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "f1545571ebccee3308cfaeb8da742f53849c97b5aa96e550f6a26f6ef37a1fcc"
+metafile = true
+
+[[files]]
+file = "mods/blast.toml"
+hash = "f81cd2b3691f87932e61a4e4371d28c768465a64793399309ced8143df974648"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "949fa146db39f30daab3c8282ae265a9ccfdf6222c79d55d46c8bab34d36f152"
+metafile = true
+
+[[files]]
+file = "mods/break-progress.toml"
+hash = "5b4946f8e93d8bfd892ba143172193f1c7471cd5f42815892d64ce554b60ea84"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.toml"
+hash = "b843df9a8c3d6214a5a9064e24b48cfebe16cd2e28f417d0f66d1b0ea06448dc"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.toml"
+hash = "7db96601c582f057b3a821a53ba7baee7b63ad928f01eb954a9aa89ebeba222a"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.toml"
+hash = "8bca9286b0e12ee33a4ad9d4ea3f6b7426fe4b6f15fe1816d58c227dcf3b6c62"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "aadd4bccd2e9986f318f78f827fa5d31863c7093f6a6a8c24335213b55d818a5"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "29e90bc358183319c225aaf0bf97a7d24c928b49dea0adfffa02fea8f6bb7644"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.toml"
+hash = "59dab88360e50c675675852124ddf1d8aecafdac446170ecc524c64403c03dfd"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "05fa965b696c420494d53396c35fe4a84fb64f0ff22caedc954429e2feb4ecc1"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.toml"
+hash = "f34ce750b6068d7dd23996541ca5fda800ceb0b89ea88e0b51e21d33a84a69d8"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "e3e3be12a604bd69c1df66dab030137dd76c0d5acf1d8472bb534904417e823e"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.toml"
+hash = "0e05f1f8d36ec2c2d5f4b7d2d6c127e6d9431fbf51db0d0bd82cb2589810de05"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.toml"
+hash = "3182a246aeff23071cbbd66a69a8cc98f555258f6b185a8f750290b96b7c4623"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "f245ad34fcac0e0041187214fa04823a0872060270b09231268ffe36dc33e0e2"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "aebcd507cf9b8a47af81b0c7eddbf4dc5e4228b845398ff9ffe9c0d64478d9ef"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.toml"
+hash = "95390f4a8bf045e2437e5e15f7a9c024890d4e9bffb6c36042e5dfac30646fdd"
+metafile = true
+
+[[files]]
+file = "mods/extra-alchemy.toml"
+hash = "26faea2b50f1a5a273253016b9c3971ff3d8c1086ea13df78af77fb120e6810c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-fabric.toml"
+hash = "ef603585399b26fbf0f5de2f33491383c39d9dadf96b0dc19af4de84ded7fbea"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.toml"
+hash = "12eb704a683fbc4f077a70b3bdb02f3e7115532b13061ecf5ab68042436964ab"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
+metafile = true
+
+[[files]]
+file = "mods/hwyla-addon-horse-info.toml"
+hash = "320b6783478be7dab3044faa88bcd55f6568802b5f4c69a6da60650763e897b8"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "ec88c0c0f7897bbb3058b24c0ee12d06c43a64d0cefa347743d9b0264cbce5d6"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "c891e0d66857eeafbf3290fc1852c08f1dcfefd2403181790773b69052a199f8"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "af3d6caf75a010e324558e868f845266a4b9d3e686f6a1b03b48671ef3cc188d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "3d57472c7275fed75611c023c2db9c80dcd2de5de7b0a5bb941b459dba564718"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "0c19c0f90a92df7040d35ec2c3741638f316df4db3129b55e689e1b95088800c"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "2244918fa6352bfcbad0a917dc57bc1cf584fa0a24d3b6edb15723ee480095b7"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a5c6174eda3db8594761efaf64308c44702b3f2a25957b0c35825b0109a1ef0"
+metafile = true
+
+[[files]]
+file = "mods/megane.toml"
+hash = "8ac938adebe88d9cd39c4dfa97522b35125158a59e580ecb769d9b36bde65d17"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "e6f678c40b2bd652cc0b440d77f819719c4a4752511acf7a4be98cc07f392d43"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "aedc5ae67f87faec902a00135de9b7b2b15f0689223ee484c3ddbf80d3882479"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "ce3aa1d8d952e4e2c7a854bed2aad9e76a6f2febc96ad018f017fc8ef3a60a7b"
+metafile = true
+
+[[files]]
+file = "mods/ninjaphenixs-container-library.toml"
+hash = "296d594104ce24778d0dc70f7e5927e2e3aab898a41aeed71b4b140b44a7b890"
+metafile = true
+
+[[files]]
+file = "mods/no-null-processors.toml"
+hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
+metafile = true
+
+[[files]]
+file = "mods/offlineskins-fabric.toml"
+hash = "eebd334604468e14690047660cb4e73308838d4c3186b73f02b17170b45bb242"
+metafile = true
+
+[[files]]
+file = "mods/paintings.toml"
+hash = "e6dac03a81c14312a9f24c0b42bcea16334d5da20087ddc7de6db3422e1e3506"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.toml"
+hash = "08d6f4049183a46962e3b6cf94195dfb5fc214047cb2df6df8ca9c3b9fcfa082"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "74a6235c112e8dbfab8a7981a07f1c440960a1fe7ec7ad534c693034b571e145"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "5e426b900ceb587441d2f5135aaaf433761b376d476e8c75ab497fc77328b3ee"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "9c51dd2b58c2e58340ac042813309f6cc2b02b661be58a2ff5652824bdb45967"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "48d086c6bec06c3eecf43f89c643b59fc116f80b6ac7444c68a379b2daa8de08"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "4aba93a705eb2c6300818297bc1d85329b9b085392810dbf15c79b5e3dd6d0ef"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "cb552c0688a757d320ef65c50088f4ab8942f6cc15c551ba29e0a4577920d4d2"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "99921192f4c54a05108411e971d2968ec5489aafda2de1f35de8095632a9d7b4"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.toml"
+hash = "ada8a9351358d1e0cc7a73d64591d23496fa49d8291ab80f621ab3a6c67eb2af"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "cff3911cf3ad9fa28f7fcac360558080f24684c367a3ba9845ad6dab00ceff5f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "6c3e91ec40a8523e5e25f285435b2031900aa5275a519755f0e0d4e6c2508df6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "3387843633739f2242e29e3186f3387be92bcf63674574955caa96e94bd308fe"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.toml"
+hash = "76c4f7513d0c7e54cb1e92856815350df003e06eaed2b40880b9ff7bc21981e0"
+metafile = true

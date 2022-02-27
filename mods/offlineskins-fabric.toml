@@ -1,0 +1,13 @@
+name = "OfflineSkins (Fabric)"
+filename = "OfflineSkins-1.18.1-v1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/348/OfflineSkins-1.18.1-v1-fabric.jar"
+hash-format = "sha1"
+hash = "25f3dcbb5061c88bf116d527308a1c0ad32c9d4d"
+
+[update]
+[update.curseforge]
+file-id = 3559348
+project-id = 382582
