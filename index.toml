@@ -131,6 +131,11 @@ hash = "3182a246aeff23071cbbd66a69a8cc98f555258f6b185a8f750290b96b7c4623"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.toml"
+hash = "c5fd2f5600aa65734a78f28629c228a3ccefc2971177c9c3c0e81e51f57c2623"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.toml"
 hash = "f245ad34fcac0e0041187214fa04823a0872060270b09231268ffe36dc33e0e2"
 metafile = true
