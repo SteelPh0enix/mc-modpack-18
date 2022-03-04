@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
+hash = "b8f2d4e84622a78484fe04bb0713d2a6819c624a09614a83ff4815cca56d6cc0"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "949fa146db39f30daab3c8282ae265a9ccfdf6222c79d55d46c8bab34d36f152"
+hash = "dfad9eb38260e45fffba15a236c5651ef33faf047bbb82445786f661f097dd96"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/diggus-maximus.toml"
-hash = "0e05f1f8d36ec2c2d5f4b7d2d6c127e6d9431fbf51db0d0bd82cb2589810de05"
+hash = "206b49ac544018b5d401d767d74a25f7c7cb3edb19fea100eda409719782a414"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "c891e0d66857eeafbf3290fc1852c08f1dcfefd2403181790773b69052a199f8"
+hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.toml"
-hash = "0c19c0f90a92df7040d35ec2c3741638f316df4db3129b55e689e1b95088800c"
+hash = "2bf3fc5baffbc216c41554f6dec929935f400ec2e77705da867a534876679d87"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "5e426b900ceb587441d2f5135aaaf433761b376d476e8c75ab497fc77328b3ee"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-stats.toml"
-hash = "ada8a9351358d1e0cc7a73d64591d23496fa49d8291ab80f621ab3a6c67eb2af"
+hash = "3a0c2d1b472ec57a7be563afbadf7cf6764abfe188b7d7e49feaafdb2052c81d"
 metafile = true
 
 [[files]]
@@ -357,5 +357,5 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "76c4f7513d0c7e54cb1e92856815350df003e06eaed2b40880b9ff7bc21981e0"
+hash = "8dd0a1f7046eb7c4726abe7350e31a4cbe8fd914786f82686d97aeed5a99399d"
 metafile = true
