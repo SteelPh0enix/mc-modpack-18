@@ -236,6 +236,11 @@ hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 metafile = true
 
 [[files]]
+file = "mods/lib.toml"
+hash = "112d4971866f902787731385ccf1eb68d59367646bef15cc2921095412b715c9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "5a5c6174eda3db8594761efaf64308c44702b3f2a25957b0c35825b0109a1ef0"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
+file = "mods/pipe.toml"
+hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
