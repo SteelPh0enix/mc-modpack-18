@@ -61,6 +61,11 @@ hash = "dfad9eb38260e45fffba15a236c5651ef33faf047bbb82445786f661f097dd96"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.toml"
+hash = "50ccef45e99483be2f4fec8f238720ed6b9edc89e821f50e314f08fff1b47678"
+metafile = true
+
+[[files]]
 file = "mods/break-progress.toml"
 hash = "5b4946f8e93d8bfd892ba143172193f1c7471cd5f42815892d64ce554b60ea84"
 metafile = true
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts-fabric.toml"
-hash = "59dab88360e50c675675852124ddf1d8aecafdac446170ecc524c64403c03dfd"
+hash = "442ad77e64151541036ddad6d3da299500c092539961bccdf64b970d2f63cb5d"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.toml"
-hash = "3182a246aeff23071cbbd66a69a8cc98f555258f6b185a8f750290b96b7c4623"
+hash = "033e1e1703298b212be4951b9c9df349342a5ef937ff4c8b854f416a976bbf1a"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.toml"
-hash = "ce3aa1d8d952e4e2c7a854bed2aad9e76a6f2febc96ad018f017fc8ef3a60a7b"
+hash = "ab1840d2be415015730c4c80db109d7a8585a7b8dfe31d0ae966e473abf21838"
 metafile = true
 
 [[files]]
@@ -357,5 +362,5 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "8dd0a1f7046eb7c4726abe7350e31a4cbe8fd914786f82686d97aeed5a99399d"
+hash = "382634102351a5048c658fb7b55a1c11a90518a57aa58a3a2febf63f16dd34ec"
 metafile = true
